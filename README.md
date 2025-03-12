@@ -2,7 +2,8 @@
 
 A smooth, elegant cursor trail effect created with HTML5 Canvas and JavaScript. This project creates a visually appealing glowing trail that follows your cursor movements with a spring physics simulation.
 
-![Cursor Trail Effect Demo](screenshot.png)
+![image](https://github.com/user-attachments/assets/b2c9d68d-6b56-42a5-b1c5-9910c395e765)
+
 
 ## Features
 
@@ -14,7 +15,7 @@ A smooth, elegant cursor trail effect created with HTML5 Canvas and JavaScript. 
 
 ## Live Demo
 
-Check out the live demo: [Cursor Trail Effect](https://your-vercel-deployment-url.vercel.app)
+Check out the live demo: [Cursor Trail Effect](https://cursor-trial-effect.vercel.app/)
 
 ## Technologies Used
 
